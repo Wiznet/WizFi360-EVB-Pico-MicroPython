@@ -89,9 +89,11 @@ mosquitto_sub -h BROKER_IP -t PUBLISH_TOPIC
 3. After completing the code example configuration, open 'mqtt_publish_subscribe.py' file on Thonny.
 
 4. Click the 'RUN' button on bar or press the 'F5' button on the keyboard for Run program.
+
 ![][link-img_run_mqtt_publish_subscribe]
 
 5. You publish data to the subscriber.
+
 ![][link-img_mosquitto_sub]
 
 6. Publish using Mosquitto by executing the following command.
@@ -100,7 +102,6 @@ mosquitto_sub -h BROKER_IP -t PUBLISH_TOPIC
 ```
 ![][link-img_mosquitto_pub]
 
-7. If the MQTT Subscribe example works normally on Raspberry Pi Pico, W5100S-EVB-Pico or W5500-EVB-Pico, you can see the network information of Raspberry Pi Pico, W5100S-EVB-Pico or W5500-EVB-Pico, connecting to the broker and subscribing to the subscribe topic.
 
 ## Appendix
 - In Mosquitto versions earlier than 2.0 the default is to allow clients to connect without authentication. In 2.0 and up, you must choose your authentication options explicitly before clients can connect. Therefore, if you are using version 2.0 or later, refer to following link to setup 'mosquitto.conf' in the directory where Mosquitto is installed.

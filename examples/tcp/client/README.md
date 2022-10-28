@@ -78,6 +78,7 @@ Link
 -->
 
 [link-thonny]: https://thonny.org/
+[link-hercules]: https://www.hw-group.com/software/hercules-setup-utility
 [link-img_run_tcpclient]:https://github.com/Wiznet/WizFi360-EVB-Pico-MicroPython/blob/main/static/images/img_run_tcpclient.png
 [link-img_run_tcpclient_server]:https://github.com/Wiznet/WizFi360-EVB-Pico-MicroPython/blob/main/static/images/img_run_tcpclient_server.png
 

@@ -30,16 +30,13 @@ Please refer to [**Getting Started**][link-getting_started] for how to configure
 ## Directory Structure
 
 ```
-WizFi360-EVB-Pico-CircuitPython
+WizFi360-EVB-Pico-MicroPython
 ┣ examples
 ┃   ┣ blink
 ┃   ┣ http
 ┃   ┃   ┗ request
 ┃   ┣ loopback
 ┃   ┣ mqtt
-┃   ┃   ┣ publish
-┃   ┃   ┣ publish_subscribe
-┃   ┃   ┗ subscribe
 ┃   ┣ ping
 ┃   ┣ tcp
 ┃   ┃   ┗ client
@@ -65,7 +62,7 @@ WizFi360-EVB-Pico-CircuitPython
     - [**WizFi360-EVB-Pico-C**][link-wizfi360-evb-pico-c]
     - [**WizFi360-EVB-Pico-AWS-C**][link-wizfi360-evb-pico-aws-c]
     - [**WizFi360-EVB-Pico-AZURE-C**][link-wizfi360-evb-pico-azure-c]
-- MicroPython
+- CircuitPython
     - [**WizFi360-EVB-Pico-CircuitPython**][link-wizfi360-evb-pico-circuitpython]
 
 <a name="wizfi_at_command"></a>

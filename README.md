@@ -82,4 +82,4 @@ Link
 [link-wizfi360-evb-pico-c]: https://github.com/Wiznet/WizFi360-EVB-Pico-C
 [link-wizfi360-evb-pico-aws-c]: https://github.com/Wiznet/WizFi360-EVB-Pico-AWS-C
 [link-wizfi360-evb-pico-azure-c]: https://github.com/Wiznet/WizFi360-EVB-Pico-AZURE-C
-[link-wizfi360-evb-pico-micropython]: https://github.com/Wiznet/WizFi360-EVB-Pico-CircuitPython
+[link-wizfi360-evb-pico-circuitpython]: https://github.com/Wiznet/WizFi360-EVB-Pico-CircuitPython

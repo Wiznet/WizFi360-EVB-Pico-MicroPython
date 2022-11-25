@@ -77,7 +77,7 @@ TARGET_PORT = 5000
 <!--
 Link
 -->
-
+[link-hercules]: https://www.hw-group.com/software/hercules-setup-utility/
 [link-thonny]: https://thonny.org/
 [link-img_run_loopback]:https://github.com/Wiznet/WizFi360-EVB-Pico-MicroPython/blob/main/static/images/img_run_loopback.png
 [link-img_run_loopback_server]:https://github.com/Wiznet/WizFi360-EVB-Pico-MicroPython/blob/main/static/images/img_run_loopback_server.png
